@@ -1,0 +1,25 @@
+body{
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    color: darkblue;
+}
+
+.arial{
+    font-family: Arial;
+}
+
+.verdana{
+    font-family: Verdana;
+}
+
+.courier{
+    font-family: "Courier New";
+}
+
+.times{
+    font-family: "Times New Roman";
+}
